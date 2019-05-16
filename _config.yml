@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
 title: Homepage of Sihuang Hu
+github:
+  is_project_page: false
