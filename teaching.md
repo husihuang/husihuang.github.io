@@ -1,2 +1,2 @@
-# Finite Fields and Their Applications
-## Sihuang Hu
+## Finite Fields and Their Applications
+### Sihuang Hu
