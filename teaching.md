@@ -1,6 +1,5 @@
 ## 2019-2020学年第一学期
 ### 有限域及其应用
-教材：Introduction to finite fields and their applications, Rudolf Lidl, Harald Niederreiter，Cambridge University Press.  
-参考书：  
-《有限域及其应用》，冯克勤、廖群英著，大连理工大学出版社.  
-《Finite Fields》，Rudolf Lidl, Harald Niederreiter，Cambridge University Press.  
+教材：《Introduction to finite fields and their applications》, Rudolf Lidl, Harald Niederreiter，Cambridge University Press.  
+参考书：《有限域及其应用》，冯克勤、廖群英著，大连理工大学出版社.  
+      《Finite Fields》，Rudolf Lidl, Harald Niederreiter，Cambridge University Press.  
