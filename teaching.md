@@ -1,8 +1,10 @@
 ## 2019-2020学年第一学期
 ### 有限域及其应用
 教材：
-* 《Introduction to finite fields and their applications》, Rudolf Lidl, Harald Niederreiter，Cambridge University Press.
+* 【LN1】《Introduction to finite fields and their applications》, Rudolf Lidl, Harald Niederreiter，Cambridge University Press.
 
 参考书：
-* 《有限域及其应用》，冯克勤、廖群英著，大连理工大学出版社.  
-* 《Finite Fields》，Rudolf Lidl, Harald Niederreiter，Cambridge University Press.  
+* 【冯廖】《有限域及其应用》，冯克勤、廖群英著，大连理工大学出版社.  
+* 【LN2】《Finite Fields》，Rudolf Lidl, Harald Niederreiter，Cambridge University Press.  
+
+大纲：在本课程中我们将学习有限域的基本结构，有限域上的多项式及其分解，有限域上的特征和指数和（高斯和），有限域在代数编码理论和密码学中的应用。大致内容为教材【LN1】中的第1-5章，第8-9章。
