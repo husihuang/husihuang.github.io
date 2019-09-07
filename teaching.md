@@ -1,5 +1,5 @@
 ## 2019-2020学年第一学期
-### 有限域及其应用
+### 有限域及其应用（课程号0740001）
 教材：
 * 【LN1】《Introduction to finite fields and their applications》, Rudolf Lidl, Harald Niederreiter，Cambridge University Press.
 
