@@ -1,9 +1,9 @@
 ## 2019-2020学年第一学期
 ### 有限域及其应用（课程号0740001）
 
-上课时间：2-16周，每周四5-7节，14：00-17：00
+上课时间及地点：2-16周，每周四5-7节，14：00-17：00， 淦昌苑D110
 
-上课地点：淦昌苑D110
+答疑安排：有问题麻烦请先通过电子邮件预约咨询
 
 教材：
 * 【LN1】《Introduction to finite fields and their applications》, Rudolf Lidl, Harald Niederreiter，Cambridge University Press.
@@ -16,4 +16,4 @@
 
 预备知识：线性代数；了解群、环、域的基本定义与性质
 
-2019年9月12日：
+2019年9月12日：Section 1.1-1.3
