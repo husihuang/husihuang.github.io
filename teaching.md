@@ -43,3 +43,6 @@
 * 2019年11月21日：Section 8.1（王宁宁）
 
 * 2019年11月28日：Section 8.2（汲长江）
+
+* 2019年12月5日：Section 8.2（汲长江）；New Directions in Cryptography（赵玉庆）
+
