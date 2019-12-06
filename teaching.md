@@ -44,5 +44,5 @@
 
 * 2019年11月28日：Section 8.2（汲长江）
 
-* 2019年12月5日：Section 8.2（汲长江）；New Directions in Cryptography（赵玉庆）
+* 2019年12月5日：Section 8.2（汲长江）；[New Directions in Cryptography](https://doi.org/10.1109/TIT.1976.1055638)（赵玉庆）
 
