@@ -46,3 +46,6 @@
 
 * 2019年12月5日：Section 8.2（汲长江）；[New Directions in Cryptography](https://doi.org/10.1109/TIT.1976.1055638)（赵玉庆）
 
+* 2019年12月12日：[Secure Communications Over Insecure Channels](http://www.merkle.com/1974/PuzzlesAsPublished.pdf)，
+[A Method for Obtaining Digital Signatures and Public Key Cryptosystems](http://people.csail.mit.edu/rivest/Rsapaper.pdf)（于文奇）；
+Section 9.3（吴浩轩）
