@@ -49,3 +49,5 @@
 * 2019年12月12日：[Secure Communications Over Insecure Channels](http://www.merkle.com/1974/PuzzlesAsPublished.pdf)，
 [A Method for Obtaining Digital Signatures and Public Key Cryptosystems](http://people.csail.mit.edu/rivest/Rsapaper.pdf)（于文奇）；
 Section 9.3（吴浩轩）
+
+* 2019年12月19日：Section 9.3（吴浩轩）
