@@ -51,3 +51,5 @@
 Section 9.3（吴浩轩）
 
 * 2019年12月19日：Section 9.3（吴浩轩）
+
+* 2019年12月26日：[How to Share a Secret ](https://www.cs.jhu.edu/~sdoshi/crypto/papers/shamirturing.pdf)（吴浩轩）
