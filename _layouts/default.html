@@ -14,8 +14,7 @@
   </head>
 
   <body>
-    {% include navigation.html %}
-    {{ content }}
+
 
     <div id="container">
       <div class="inner">
@@ -36,6 +35,7 @@
           <a href="{{ site.github.owner_url }}" id="view-on-github" class="button"><span>View on GitHub</span></a>
 	  {% endif %}
 	{% endif %}
+	{% include navigation.html %}
         </section>
         <hr>
         <section id="main_content">
