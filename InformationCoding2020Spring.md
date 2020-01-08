@@ -5,6 +5,7 @@
 
 教材：
 * 【MS】《The Theory of Error-Correcting Codes》, F.J.MacWilliams, N.J.A.Sloane，North-Holland.
+
 参考书：
 * 【GRS】《Essential Coding Theory》，V.Guruswami, A.Rudra, M.Sudan.
 
