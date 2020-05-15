@@ -5,10 +5,11 @@
 上课时间及地点：待定
 
 教材：
-
+* 《信息论基础》，作者：（美）Thomas M.Cover，（美）Joy A.Thomas著；阮吉寿，张华译
 
 参考书：
-* 《信息论基础》，作者：（美）Thomas M.Cover，（美）Joy A.Thomas著；阮吉寿，张华译
+* Elements of Information Theory 2nd Edition by Thomas M. Cover, Joy A. Thomas
+* Madhu Sudan, [Information Theory in Computer Science (Harvard CS 229r, Spring 2019)](http://people.seas.harvard.edu/~madhusudan/courses/Spring2019/)
 
 大纲：
 
