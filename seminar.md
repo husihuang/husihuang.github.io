@@ -14,6 +14,6 @@
 
 2020年5月29日：彭海朋（北京邮电大学） [报告信息](http://www.cst.qd.sdu.edu.cn/info/1035/1976.htm)
 
-2020年6月1日：胡思煌（山东大学） 报告信息
+2020年6月1日：胡思煌（山东大学） [报告信息](http://math.suda.edu.cn/b4/20/c10710a373792/page.htm)
 
 2020年6月5日：李杰（芬兰阿尔托大学） [报告信息](http://www.cst.qd.sdu.edu.cn/info/1010/1943.htm)；上官冲（以色列特拉维夫大学） [报告信息](http://www.cst.qd.sdu.edu.cn/info/1010/1945.htm)
