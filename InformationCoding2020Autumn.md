@@ -12,10 +12,12 @@
 参考资料及链接：
 * Elements of Information Theory 2nd Edition by Thomas M. Cover, Joy A. Thomas
 * Madhu Sudan, [Information Theory in Computer Science (Harvard CS 229r, Spring 2019)](http://people.seas.harvard.edu/~madhusudan/courses/Spring2019/)
+* Network Information Theory by Abbas El Gamal, Young-Han Kim
 * 纪录片：[Claude Shannon - Father of the Information Age](https://v.qq.com/x/page/a0197khdkeg.html)
 * 网站：[Information Theory Society](https://www.itsoc.org/)
 
+预备知识：微积分、概率论
+
 大纲：
 
-预备知识：概率论
 
