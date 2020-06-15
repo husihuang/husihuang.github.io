@@ -12,6 +12,7 @@
 
 参考资料及链接：
 * Madhu Sudan, [Information Theory in Computer Science (Harvard CS 229r, Spring 2019)](http://people.seas.harvard.edu/~madhusudan/courses/Spring2019/)
+* 经典文献：C. E. Shannon, [A mathematical theory of communication](https://dl.acm.org/doi/10.1145/584091.584093)
 * Network Information Theory by Abbas El Gamal, Young-Han Kim
 * 纪录片：[Claude Shannon - Father of the Information Age](https://v.qq.com/x/page/a0197khdkeg.html)
 * 网站：[Information Theory Society](https://www.itsoc.org/)
