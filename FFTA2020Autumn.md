@@ -15,29 +15,25 @@
 预备知识：线性代数；了解群、环、域的基本定义与性质。
 
 Chapter 1 Algebraic Foundations 1
-1 Groups 2
-2 Rings and Fields 11
-3 Polynomials 18
-4 Field Extensions 30
-Exercises 37
+1 Groups
+2 Rings and Fields
+3 Polynomials
+4 Field Extensions
 
-Chapter 2 Structure of Finite Fields 43
-1 Characterization of Finite Fields 44
-2 Roots of Irreducible Polynomials 47
-3 Traces, Norms, and Bases 50
-4 Roots of Unity and Cyclotomic Polynomials 59
-5 Representation of Elements of Finite Fields 62
-Exercises 69
+Chapter 2 Structure of Finite Fields
+1 Characterization of Finite Fields
+2 Roots of Irreducible Polynomials
+3 Traces, Norms, and Bases
+4 Roots of Unity and Cyclotomic Polynomials
+5 Representation of Elements of Finite Fields
 
-Chapter 3 Polynomials over Finite Fields 74
-1 Order of Polynomials and Primitive Polynomials 75
-2 Irreducible Polynomials 82
-3 Construction of Irreducible Polynomials 87
-4 Linearized Polynomials 98
-5 Binomials and Trinomials 115
-Exercises 122
+Chapter 3 Polynomials over Finite Fields
+1 Order of Polynomials and Primitive Polynomials
+2 Irreducible Polynomials
+3 Construction of Irreducible Polynomials
+4 Linearized Polynomials
+5 Binomials and Trinomials
 
-Chapter 5 Exponential Sums 162
-1 Characters 163
-2 Gaussian Sums 168
-Exercises 181
+Chapter 5 Exponential Sums
+1 Characters
+2 Gaussian Sums
