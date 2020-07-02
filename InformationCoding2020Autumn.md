@@ -15,7 +15,7 @@
 * 纪录片：[Claude Shannon - Father of the Information Age](https://v.qq.com/x/page/a0197khdkeg.html)
 * 网站：[Information Theory Society](https://www.itsoc.org/)
 
-预备知识：微积分、概率论
+预备知识：微积分、概率论、离散数学
 
 大纲：
 
