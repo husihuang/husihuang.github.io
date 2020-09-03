@@ -12,9 +12,12 @@
 * Madhu Sudan, [Information Theory in Computer Science (Harvard CS 229r, Spring 2019)](http://people.seas.harvard.edu/~madhusudan/courses/Spring2019/)
 * 经典文献：C. E. Shannon, [A mathematical theory of communication](https://dl.acm.org/doi/10.1145/584091.584093)
 * Y. Polyanskiy, Y. Wu, [Lecture notes on Information Theory](http://people.lids.mit.edu/yp/homepage/data/itlectures_v5.pdf), MIT (6.441), UIUC (ECE 563), Yale (STAT 664), 2012-2017.
-* Network Information Theory by Abbas El Gamal, Young-Han Kim
 * 纪录片：[Claude Shannon - Father of the Information Age](https://v.qq.com/x/page/a0197khdkeg.html)
 * 网站：[Information Theory Society](https://www.itsoc.org/)
+
+进阶阅读及后续课程：
+* Network Information Theory by Abbas El Gamal, Young-Han Kim
+* Modern Coding Theory by Tom Richardson, Rüdiger Urbanke
 
 预备知识：微积分、概率论、离散数学
 
