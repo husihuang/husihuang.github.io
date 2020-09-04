@@ -4,6 +4,8 @@
 
 上课时间及地点：周二、四 3-4节，1-12周上课，振声苑N202
 
+课程成绩：本课程会有几次课后作业和一次期末考试。成绩将由平时作业成绩 (30%) 和期末考试成绩 (70%) 综合得出。
+
 教材：
 * 《信息论基础》，Thomas M.Cover，Joy A.Thomas著；阮吉寿，张华译
 * Elements of Information Theory 2nd Edition by Thomas M. Cover, Joy A. Thomas
