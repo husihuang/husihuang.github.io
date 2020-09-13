@@ -25,6 +25,7 @@
 * 经典文献：C. E. Shannon, [A mathematical theory of communication](https://dl.acm.org/doi/10.1145/584091.584093)
 * Y. Polyanskiy, Y. Wu, [Lecture notes on Information Theory](http://people.lids.mit.edu/yp/homepage/data/itlectures_v5.pdf), MIT (6.441), UIUC (ECE 563), Yale (STAT 664), 2012-2017.
 * 纪录片：[Claude Shannon - Father of the Information Age](https://v.qq.com/x/page/a0197khdkeg.html)
+* 纪录片：[The Bit Player - Who is Claude Shannon](https://www.bilibili.com/video/BV1YV411z7qo/?spm_id_from=333.788.videocard.0)
 * 网站：[Information Theory Society](https://www.itsoc.org/)
 
 进阶阅读及后续课程：
