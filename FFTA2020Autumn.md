@@ -34,5 +34,5 @@ Chapter 3 Polynomials over Finite Fields
 * 5 Binomials and Trinomials
 
 Chapter 5 Exponential Sums
-* 1 Characters
+* 1 Characters（苗鑫）
 * 2 Gaussian Sums
