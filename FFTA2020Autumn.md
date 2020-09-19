@@ -24,15 +24,15 @@ Chapter 2 Structure of Finite Fields
 * 1 Characterization of Finite Fields（徐颜）
 * 2 Roots of Irreducible Polynomials（杨红娜）
 * 3 Traces, Norms, and Bases（油思文）
-* 4 Roots of Unity and Cyclotomic Polynomials
+* 4 Roots of Unity and Cyclotomic Polynomials（栾昊）
 
 Chapter 3 Polynomials over Finite Fields
 * 1 Order of Polynomials and Primitive Polynomials（王铂涵）
 * 2 Irreducible Polynomials（刘丽）
-* 3 Construction of Irreducible Polynomials
-* 4 Linearized Polynomials
-* 5 Binomials and Trinomials
+* 3 Construction of Irreducible Polynomials（张晨阳）
+* 4 Linearized Polynomials（沈元婷）
+* 5 Binomials and Trinomials（渠宏源）
 
 Chapter 5 Exponential Sums
 * 1 Characters（苗鑫）
-* 2 Gaussian Sums
+* 2 Gaussian Sums（宋志颖）
