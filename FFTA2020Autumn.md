@@ -28,7 +28,7 @@ Chapter 2 Structure of Finite Fields
 
 Chapter 3 Polynomials over Finite Fields
 * 1 Order of Polynomials and Primitive Polynomials（王铂涵）
-* 2 Irreducible Polynomials
+* 2 Irreducible Polynomials（刘丽）
 * 3 Construction of Irreducible Polynomials
 * 4 Linearized Polynomials
 * 5 Binomials and Trinomials
