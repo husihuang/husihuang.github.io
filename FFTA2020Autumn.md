@@ -23,7 +23,7 @@ Chapter 1 Algebraic Foundations
 Chapter 2 Structure of Finite Fields
 * 1 Characterization of Finite Fields（徐颜）
 * 2 Roots of Irreducible Polynomials（杨红娜）
-* 3 Traces, Norms, and Bases
+* 3 Traces, Norms, and Bases（油思文）
 * 4 Roots of Unity and Cyclotomic Polynomials
 
 Chapter 3 Polynomials over Finite Fields
