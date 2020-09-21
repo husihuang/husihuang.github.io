@@ -5,6 +5,7 @@
 
 教材：
 * 【LN1】Introduction to finite fields and their applications, Rudolf Lidl, Harald Niederreiter，Cambridge University Press.
+
 参考书：
 * 【林】《代数学基础与有限域》，林东岱著，高等教育出版社。
 * 【LN2】Finite Fields, Rudolf Lidl, Harald Niederreiter, Cambridge University Press. 本书为【LN1】的扩充版。
