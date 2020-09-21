@@ -1,7 +1,7 @@
 ## 2020-2021学年第一学期
 ### 有限域及其应用（课程号0740001）
 
-上课时间及地点：星期三	3-18周	2-4节 淦昌苑D118
+上课时间及地点：星期三	3-18周	2-4节 淦昌苑$\color{red}{D204}$
 
 教材：
 * 【LN1】Introduction to finite fields and their applications, Rudolf Lidl, Harald Niederreiter，Cambridge University Press.
