@@ -32,7 +32,7 @@ Chapter 3 Polynomials over Finite Fields
 * 2 Irreducible Polynomials（张敏）
 * 3 Construction of Irreducible Polynomials（沈元婷）
 * 4 Linearized Polynomials（徐颜）
-* 5 Binomials and Trinomials（渠宏源）
+* 5 Binomials and Trinomials（张晨阳）
 
 Chapter 5 Exponential Sums
 * 1 Characters（李国栋）
