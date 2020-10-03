@@ -27,8 +27,10 @@
 * 纪录片：[Claude Shannon - Father of the Information Age](https://v.qq.com/x/page/a0197khdkeg.html)
 * 纪录片：[The Bit Player - Who is Claude Shannon](https://www.bilibili.com/video/BV1YV411z7qo/?spm_id_from=333.788.videocard.0)
 * 网站：[Information Theory Society](https://www.itsoc.org/)
+* 网站：[Simons Institute for the Theory of Computing](https://simons.berkeley.edu/)
 
 进阶阅读及后续课程：
+* [Simons-Berkeley Program on Information Theory](https://simons.berkeley.edu/programs/inftheory2015)
 * Network Information Theory by Abbas El Gamal, Young-Han Kim
 * Modern Coding Theory by Tom Richardson, Rüdiger Urbanke
 
