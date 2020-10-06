@@ -28,7 +28,7 @@ Chapter 2 Structure of Finite Fields
 * 4 Roots of Unity and Cyclotomic Polynomials（戚丽君）
 
 Chapter 3 Polynomials over Finite Fields
-* 1 Order of Polynomials and Primitive Polynomials（王铂涵）
+* 1 Order of Polynomials and Primitive Polynomials（汲长江）
 * 2 Irreducible Polynomials（张敏）
 * 3 Construction of Irreducible Polynomials（沈元婷）
 * 4 Linearized Polynomials（徐颜）
