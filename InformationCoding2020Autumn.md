@@ -17,8 +17,9 @@
 * 如授课教师发现有雷同作业，并且没有明确的引用或致谢关系，授课教师可以要求有关同学当面复述并解释自己的答案。
 
 教材：
-* 《信息论基础》，Thomas M.Cover，Joy A.Thomas著；阮吉寿，张华译
-* Elements of Information Theory 2nd Edition by Thomas M. Cover, Joy A. Thomas
+* 【CT_zh】《信息论基础》，Thomas M.Cover，Joy A.Thomas著；阮吉寿，张华译
+* 【CT_en】Elements of Information Theory 2nd Edition by Thomas M. Cover, Joy A. Thomas
+* 【GRS】[《Essential Coding Theory》](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)，V.Guruswami, A.Rudra, M.Sudan.
 
 参考资料及链接：
 * Madhu Sudan, [Information Theory in Computer Science (Harvard CS 229r, Spring 2019)](http://people.seas.harvard.edu/~madhusudan/courses/Spring2019/)
@@ -38,6 +39,8 @@
 
 大纲：
 
+信息论部分（【CT_zh】）：
+
 1. 绪论与概览
 
 2. 熵、相对熵与互信息
@@ -52,8 +55,21 @@
 
 7. 高斯信道
 
-8. 率失真理论
+编码部分（【GRS】）:
 
-9. 通用信源编码
+1. The Fundamental Question
+
+2. Linear Codes
+
+3. Probability
+
+4. Bounds
+
+5. Reed-Solomon Codes
+
+6. Shannon's Theorem
+
+7. List decoding
+
 
 
