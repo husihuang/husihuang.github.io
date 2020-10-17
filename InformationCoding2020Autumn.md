@@ -32,7 +32,7 @@
 
 进阶阅读及后续课程：
 * [Simons-Berkeley Program on Information Theory](https://simons.berkeley.edu/programs/inftheory2015)
-* Network Information Theory by Abbas El Gamal, Young-Han Kim
+* [Network Information Theory](http://web.eng.ucsd.edu/~yhk/nit.html) by Abbas El Gamal, Young-Han Kim
 * Modern Coding Theory by Tom Richardson, Rüdiger Urbanke
 
 预备知识：微积分、概率论、离散数学
