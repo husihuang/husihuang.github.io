@@ -36,4 +36,4 @@ Chapter 3 Polynomials over Finite Fields
 
 Chapter 5 Exponential Sums
 * 1 Characters（李国栋）
-* 2 Gaussian Sums（宋志颖）
+* 2 Gaussian Sums（王宁宁）
