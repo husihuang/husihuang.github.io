@@ -11,7 +11,7 @@
 
 2020年11月2日：方伟军（清华大学）
 
-2020年11月9日：汲长江（山东大学）
+2020年11月9日：TBA
 
 2020年11月16日：Alex Samorodnitsky (Hebrew University of Jerusalem)
 
