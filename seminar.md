@@ -13,7 +13,7 @@
 
 2020年11月9日：光炫（南开大学）[报告信息](https://cst.qd.sdu.edu.cn/info/1010/2354.htm)
 
-2020年11月16日：Alex Samorodnitsky (Hebrew University of Jerusalem)[报告信息](https://cst.qd.sdu.edu.cn/info/1010/2364.htm)
+2020年11月16日：Alex Samorodnitsky (Hebrew University of Jerusalem) [报告信息](https://cst.qd.sdu.edu.cn/info/1010/2364.htm)
 
 ---------------------------------------------
 ### 2019-2020学年第二学期
