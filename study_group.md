@@ -13,5 +13,4 @@
 * 2020年11月12日：Chapter 1 Warm-up 赵子硕
 * 2020年11月19日：cancelled
 * 2020年11月26日：Section 2.1-2.2 张梓豪
-* 2020年12月3日：Section 2.3-2.4 张子涵
-* 2020年12月10日： Section 3.1 张鸣飞
+* To Be Continued
