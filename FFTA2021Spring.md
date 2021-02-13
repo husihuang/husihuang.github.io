@@ -33,3 +33,5 @@ Chapter 2 Structure of Finite Fields
 Chapter 5 Exponential Sums
 * 1 Characters
 * 2 Gaussian Sums
+
+Topics: The Berlekamp-Welch algorithm, The finite field Nikodym and Kakeya theorems
