@@ -16,13 +16,13 @@
 
 预备知识：线性代数；了解有限域的基本定义与性质
 
-* Section 1.1-1.4
-* Section 1.5-1.7
-* Section 2.1-2.3
-* Section 2.4-2.7
-* Section 3.1-3.3
-* Section 4.1-4.3
-* Section 4.4
+* Section 1.1-1.4 李国栋
+* Section 1.5-1.7 路孜阳
+* Section 2.1-2.3 徐颜
+* Section 2.4-2.7 杨红娜
+* Section 3.1-3.3 油思文
+* Section 4.1-4.3 汲长江
+* Section 4.4 王宁宁
 * Section 5.1-5.3
 * Section 7.1-7.3
 * Section 7.4-7.5
