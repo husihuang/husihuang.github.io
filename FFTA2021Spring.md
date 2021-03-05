@@ -1,7 +1,7 @@
 ## 2020-2021学年第二学期
 ### 有限域及其应用（本科生课程号sd04630430）
 
-上课时间及地点：星期一、三 1-10周 5-6节 青岛校区振声苑W208
+上课时间及地点：星期一、三 1-10周 5-6节 青岛校区淦昌苑D座204
 
 教材：
 * 【LN1】Introduction to finite fields and their applications, Rudolf Lidl, Harald Niederreiter，Cambridge University Press.
