@@ -2,7 +2,7 @@
 ### 信息论与编码（课程号0740014）
 #### 注意本课程是研究生课程，与本科生课程《信息论与编码》没有关系！
 
-上课时间及地点：1-16周，单周周二、双周周三，2-4节，淦昌苑D118
+上课时间及地点：1-16周，单周周二、双周周三，2-4节，淦昌苑D204
 
 教材：
 * 【GRS】[《Essential Coding Theory》](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)，V.Guruswami, A.Rudra, M.Sudan.
