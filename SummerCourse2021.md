@@ -5,4 +5,4 @@ Abstract: In this course, we develop analytic tools to study properties of funct
 
 课程时间：2021年7月12, 14, 16, 19, 21, 23, 26日；8月6日  下午14：00-16：00
 
-讲授人：Alex Samorodnitsky
+讲授人：[Alex Samorodnitsky](http://www.cs.huji.ac.il/~salex/)
