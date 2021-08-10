@@ -11,3 +11,10 @@
 * 【LN1】Introduction to finite fields and their applications, Rudolf Lidl, Harald Niederreiter，Cambridge University Press.
 
 大纲：我们将学习教材【MM】的全部内容，以及【H】的第1章。
+
+具体安排：
+* Chapter 1. Finite Fields 徐颜
+* Chapter 2. Combinatorics 王琛
+* Chapter 3. Algebraic Coding Theory 王宁宁
+* Chapter 4. Cryptography 路孜阳
+* Paper Reading: TBA
