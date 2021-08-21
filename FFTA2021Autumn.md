@@ -7,7 +7,7 @@
 * 【MM】[Finite Fields and Applications](https://bookstore.ams.org/stml-41/), Gary L. Mullen and Carl Mummert, Student Mathematical Library vol. 41.
 
 参考书
-* 【LN1】Introduction to finite fields and their applications, Rudolf Lidl, Harald Niederreiter，Cambridge University Press.
+* 【LN1】[Introduction to finite fields and their applications](https://www.cambridge.org/core/books/introduction-to-finite-fields-and-their-applications/84CD611976678E270A2146652E1773D6), Rudolf Lidl, Harald Niederreiter，Cambridge University Press.
 * 【H】[Algebraic Geometry](https://www.springer.com/gp/book/9780387902449), Robin Hartshorne, GTM52.
 
 大纲：我们将学习教材【MM】的全部内容。
