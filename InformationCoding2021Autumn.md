@@ -20,6 +20,7 @@
 * 【CT_zh】《信息论基础》，Thomas M.Cover，Joy A.Thomas著；阮吉寿，张华译
 * 【CT_en】Elements of Information Theory 2nd Edition by Thomas M. Cover, Joy A. Thomas
 * 【GRS】[《Essential Coding Theory》](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)，V.Guruswami, A.Rudra, M.Sudan.
+* 【H2020】[2020-2021第一学期讲义](https://www.jianguoyun.com/p/DR9U1ecQm4-HBhjdt4oE)
 
 参考资料及链接：
 * Madhu Sudan, [Information Theory in Computer Science (Harvard CS 229r, Spring 2019)](http://people.seas.harvard.edu/~madhusudan/courses/Spring2019/)
