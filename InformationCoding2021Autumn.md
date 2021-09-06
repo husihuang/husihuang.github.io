@@ -12,6 +12,7 @@
 * 无论因何种原因缺席任意一次小测验Q1或Q2，其相应测验成绩 = 0，课程成绩计算方式不变。
 
 教材：
+* 【H2021】[2021-2022第一学期讲义](https://www.jianguoyun.com/p/DSW5ZsUQm4-HBhjN14wE)
 * 【CT_zh】《信息论基础》，Thomas M.Cover，Joy A.Thomas著；阮吉寿，张华译
 * 【CT_en】Elements of Information Theory 2nd Edition by Thomas M. Cover, Joy A. Thomas
 * 【GRS】[《Essential Coding Theory》](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)，V.Guruswami, A.Rudra, M.Sudan.
@@ -33,7 +34,11 @@
 
 预备知识：微积分、概率论、离散数学
 
-大纲：(To Be Updated)
+教学日历：
+
+2021.09.06 第一讲：熵的定义、基本性质；联合熵与条件熵。
+
+
 
 信息论部分（【CT_zh】）：
 
