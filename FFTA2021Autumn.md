@@ -1,7 +1,7 @@
 ## 2020-2021学年第一学期
 ### 有限域及其应用（研究生课程号0740001）
 
-上课时间及地点：星期二	1-16周	2-4节 淦昌苑D204
+上课时间及地点：星期二	2-16周	2-4节 淦昌苑D204
 
 教材：
 * 【MM】[Finite Fields and Applications](https://bookstore.ams.org/stml-41/), Gary L. Mullen and Carl Mummert, Student Mathematical Library vol. 41.
