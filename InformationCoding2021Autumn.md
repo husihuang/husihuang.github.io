@@ -11,6 +11,15 @@
 * 最终课业成绩的计算方法为：课程成绩 = max{15% * Q1 + 15% * Q2 + 70% * T, T}。
 * 无论因何种原因缺席任意一次小测验Q1或Q2，其相应测验成绩 = 0，课程成绩计算方式不变。
 
+预备知识：微积分、概率论、离散数学
+
+教学日历：
+
+* 2021.09.06 第一讲：熵的定义、基本性质；联合熵与条件熵。课后作业：【CT_zh】习题 2.1，2.4，2.5。
+* 2021.09.08 第二讲：熵的链式法则，相对熵与互信息，Jensen不等式。课后作业：【CT_zh】习题 2.6，2.7， 2.12。
+* 2021.09.13 第三讲：Jensen不等式及其结果，数据处理不等式。课后作业：【CT_zh】习题 2.14，2.18，2.29。
+* 2021.09.15 第四讲：Fano不等式，熵的组合意义，习题2.6讲解。课后作业：【CT_zh】习题 2.23，2.25，2.32。
+
 教材：
 * 【H2021】[2021-2022第一学期讲义](https://www.jianguoyun.com/p/DSW5ZsUQm4-HBhjN14wE)
 * 【CT_zh】《信息论基础》，Thomas M.Cover，Joy A.Thomas著；阮吉寿，张华译
@@ -32,15 +41,6 @@
 * [Simons-Berkeley Program on Information Theory](https://simons.berkeley.edu/programs/inftheory2015)
 * [Network Information Theory](http://web.eng.ucsd.edu/~yhk/nit.html) by Abbas El Gamal, Young-Han Kim
 * [Modern Coding Theory](https://documents.epfl.ch/groups/i/ip/ipg/www/2010-2011/Statistical_Physics_for_Communication_and_Computer_Science/mct-new.pdf) by Tom Richardson, Rüdiger Urbanke
-
-预备知识：微积分、概率论、离散数学
-
-教学日历：
-
-* 2021.09.06 第一讲：熵的定义、基本性质；联合熵与条件熵。课后作业：【CT_zh】习题 2.1，2.4，2.5。
-* 2021.09.08 第二讲：熵的链式法则，相对熵与互信息，Jensen不等式。课后作业：【CT_zh】习题 2.6，2.7， 2.12。
-* 2021.09.13 第三讲：Jensen不等式及其结果，数据处理不等式。课后作业：【CT_zh】习题 2.14，2.18，2.29。
-* 2021.09.15 第四讲：Fano不等式，熵的组合意义，习题2.6讲解。课后作业：【CT_zh】习题 2.23，2.25，2.32。
 
 
 信息论部分（【CT_zh】）：
