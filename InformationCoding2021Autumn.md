@@ -26,6 +26,7 @@
 * 2021.09.27 第七讲：最短描述期望，Huffman码，Shannon-Fano-Elias码。【CT_zh】习题5.12, 5.28。 
 * 2021.09.29 第八讲：熵的公理化定义。【CT_zh】习题2.27，2.28。进阶：习题2.46（不作要求）。
 * 2021.10.04 第九讲：Shannon编码，Fano编码，Shannon-Fano-Elias编码，Huffman码最优性。【CT_zh】习题5.9，5.30.
+* 2021.10.06 第十讲：信道容量，信道例子：BSC，BEC，联合典型序列。【CT_zh】习题7.2，7.4.
 
 教材：
 * 【H2021】[2021-2022第一学期讲义](https://www.jianguoyun.com/p/DSW5ZsUQm4-HBhjN14wE)
