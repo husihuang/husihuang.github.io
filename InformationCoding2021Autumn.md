@@ -31,6 +31,7 @@
 * 2021.10.13 第十二讲：信道编码定理的逆定理，Polar码，极化现象。【CT_zh】习题7.13，7.14.
 * 2021.10.18 第十三讲：Polar码，极化现象，强极化现象。
 * 2021.10.20 第十四讲：强极化，极化码编码复杂度，译码复杂度，[汉明码](https://www.bilibili.com/video/BV1WK411N7kz?from=search&seid=17764592407026752781&spm_id_from=333.337.0.0)。【CT_zh】习题7.20，7.23.
+* 2021.10.25 第十五讲：Code, parity code, repetition code, Hamming distance, t-error-correction, t-error-detection。
 
 教材：
 * 【H2021】[2021-2022第一学期讲义](https://www.jianguoyun.com/p/DSW5ZsUQm4-HBhjN14wE)
