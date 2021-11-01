@@ -33,6 +33,7 @@
 * 2021.10.20 第十四讲：强极化，极化码编码复杂度，译码复杂度，[汉明码](https://www.bilibili.com/video/BV1WK411N7kz?from=search&seid=17764592407026752781&spm_id_from=333.337.0.0)。【CT_zh】习题7.20，7.23.
 * 2021.10.25 第十五讲：Parity code, repetition code, Hamming distance, t-error-correction, t-error-detection。【GRS】Exercise 1.1, 1.5, 1.6.
 * 2021.10.27 第十六讲：Hamming code, Hamming (sphere packing) bound, linear code。【GRS】Exercise 1.7, 1.8。
+* 2021.11.01 第十七讲：Generator matrix, parity-check matrix, generalized Hamming codes, family of codes. 【GRS】Exercise 1.15, 1.17, 2.9.
 
 教材：
 * 【H2021】[2021-2022第一学期讲义](https://www.jianguoyun.com/p/DSW5ZsUQm4-HBhjN14wE)
