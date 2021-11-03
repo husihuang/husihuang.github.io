@@ -34,6 +34,7 @@
 * 2021.10.25 第十五讲：Parity code, repetition code, Hamming distance, t-error-correction, t-error-detection。【GRS】Exercise 1.1, 1.5, 1.6.
 * 2021.10.27 第十六讲：Hamming code, Hamming (sphere packing) bound, linear code。【GRS】Exercise 1.7, 1.8。
 * 2021.11.01 第十七讲：Generator matrix, parity-check matrix, generalized Hamming codes, family of codes. 【GRS】Exercise 1.15, 1.17, 2.9.
+* 2021.11.03 第十八讲：Asymptotic bounds: Hamming/Sphere-packing bounds, Gilbert-Varshamov bound, q-ary Entropy function. 【GRS】Exercise 2.13, 2.16.
 
 教材：
 * 【H2021】[2021-2022第一学期讲义](https://www.jianguoyun.com/p/DSW5ZsUQm4-HBhjN14wE)
