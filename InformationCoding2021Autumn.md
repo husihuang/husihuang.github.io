@@ -36,6 +36,7 @@
 * 2021.11.01 第十七讲：Generator matrix, parity-check matrix, generalized Hamming codes, family of codes. 【GRS】Exercise 1.15, 1.17, 2.9.
 * 2021.11.03 第十八讲：Asymptotic bounds: Hamming/Sphere-packing bounds, Gilbert-Varshamov bound, q-ary Entropy function. 【GRS】Exercise 2.13, 2.16.
 * 2021.11.08 第十九讲：Magic code, probabilistic method. 【GRS】Exercise 2.18, 2.27, 2.31.
+* 2021.11.10 第二十讲：Linear codes attaining GV bound, Singleton bound, Plotkin bound. 【GRS】Exercise 4.11, 4.12, 4.13.
 
 教材：
 * 【H2021】[2021-2022第一学期讲义](https://www.jianguoyun.com/p/DSW5ZsUQm4-HBhjN14wE)
