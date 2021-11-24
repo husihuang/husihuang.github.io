@@ -37,7 +37,8 @@
 * 2021.11.10 第二十讲：Linear codes attaining GV bound, Singleton bound, Plotkin bound. 【GRS】Exercise 4.11, 4.12, 4.13.
 * 2021.11.15 第二十一讲：Hadamard matrix, Plotkin bound, Geometric lemma, Polynomials over fields, Reed-Solomon codes, MDS codes. 【GRS】Exercise 5.2, 5.4.
 * 2021.11.17 第二十二讲：Welch-Berlekamp algorithm, Boolean functions.
-* 2021.11.22 第二十三讲：Exersice 2.18, Reed-Muller codes, (u,u+v) construction.
+* 2021.11.22 第二十三讲：Exersise 2.18, Reed-Muller codes, (u,u+v) construction.
+* 2021.11.24 第二十四讲：Exercise 2.18, majority logic decoing for RM codes. 
 
 教材：
 * 【H2021】[2021-2022第一学期讲义](https://www.jianguoyun.com/p/DSW5ZsUQm4-HBhjN14wE)
