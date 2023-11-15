@@ -28,8 +28,8 @@ Chapter 2 Structure of Finite Fields
 * 4 Roots of Unity and Cyclotomic Polynomials（王乐雯）
 
 Chapter 3 Polynomials over Finite Fields
-* 1 Order of Polynomials and Primitive Polynomials（王韵涵）
-* 4 Linearized Polynomials（初婧雯）
+* 1 Order of Polynomials and Primitive Polynomials（马增蛟）
+* 4 Linearized Polynomials（唐梦飞）
 * 5 Binomials and Trinomials（孙洛鹏）
 
 Chapter 5 Exponential Sums
