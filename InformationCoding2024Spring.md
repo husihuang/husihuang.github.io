@@ -36,6 +36,7 @@
 * 2023.04.11 极化码极化现象详解，弱极化定理
 * 2023.04.18 极化码编码算法、译码算法
 * 2023.04.23 信道编码定理，联合典型序列 【CT_zh】习题 7.13,7.23,7.33
+-----------------------------------------
 教材：
 * 【H2021】[2021-2022第一学期课程网页](https://husihuang.github.io/InformationCoding2021Autumn.html)
 * 【CT_zh】《信息论基础》，Thomas M.Cover，Joy A.Thomas著；阮吉寿，张华译
@@ -43,6 +44,7 @@
 * 【GRS】[《Essential Coding Theory》](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)，V.Guruswami, A.Rudra, M.Sudan.
 * 【H2020】[2020-2021第一学期讲义](https://www.jianguoyun.com/p/DR9U1ecQm4-HBhjdt4oE)
 
+-----------------------------------------
 参考资料及链接：
 * Madhu Sudan, [Information Theory in Computer Science (Harvard CS 229r, Spring 2019)](http://people.seas.harvard.edu/~madhusudan/courses/Spring2019/)
 * 经典文献：C. E. Shannon, [A mathematical theory of communication](https://dl.acm.org/doi/10.1145/584091.584093)
@@ -53,6 +55,7 @@
 * 网站：[Information Theory Society](https://www.itsoc.org/)
 * 网站：[Simons Institute for the Theory of Computing](https://simons.berkeley.edu/)
 
+-----------------------------------------
 进阶阅读及后续课程：
 * [Simons-Berkeley Program on Information Theory](https://simons.berkeley.edu/programs/inftheory2015)
 * [Network Information Theory](http://web.eng.ucsd.edu/~yhk/nit.html) by Abbas El Gamal, Young-Han Kim
