@@ -2,7 +2,7 @@
 ### (ancient Chinese) Is it not delightful to have friends coming from distant quarters? (from "The Analects of Confucius")
 ------
 
-## International Workshop on Lattices, Codes, and related topics
+## International Workshop on Lattices, Codes and related topics
 
 
 
