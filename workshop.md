@@ -12,8 +12,11 @@ The expected arrival and departure dates will be 14th June 2025 and 18th June 20
 ## Invited Speakers (TBA)
 
 ## Organizers (TBA)
-Sihuang Hu (Shandong University)
-Gabriele Nebe (RWTH Aachen)
+Sihuang Hu  (Qingdao)
+
+Gabriele Nebe (Aachen) 
+
+Weihsuan Yu (Taoyuan) 
 
 ## Location
 The conference venue will be at Ocean University of China Academic Exchange Center Hotel.
