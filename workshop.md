@@ -22,7 +22,7 @@ The conference venue will be at Ocean University of China Academic Exchange Cent
 
 ## Travel info.
 ### Visa
-Please check this link[https://www.ieee-itw2024.org/Visa] (from another conference). 
+Please check this [link](https://www.ieee-itw2024.org/Visa) for detailed information (from another conference). 
 ### Arriving by plane:
 Qingdao Jiaodong International Airport (TAO) is well connected to major cities in China, Japan and Korea.
 When searching for flights, one could consider to transfer in Beijing, Shanghai, Tokyo and Seoul.
