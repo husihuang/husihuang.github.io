@@ -2,7 +2,7 @@
 ### (ancient Chinese) Is it not delightful to have friends coming from distant quarters? (from "The Analects of Confucius")
 ------
 # International Workshop on Lattices, Codes and Related Topics
-An International Workshop on Lattices, Codes and related topics will be held at June 14-18, 2025 in Qingdao. 
+An International Workshop on Lattices, Codes and Related Topics will be held at June 14-18, 2025 in Qingdao. 
 The focus of this workshop will be on the various applications and interactions of the
 theory of lattices and codes, within mathematics and beyond.
 Related areas are also welcome.  
