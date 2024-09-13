@@ -8,7 +8,11 @@ theory of lattices and codes, within mathematics and beyond.
 Related areas are also welcome.  
 The expected arrival and departure dates will be 14th June 2025 and 18th June 2025, respectively. 
 
-## Invited Speakers (TBA)
+## Invited Speakers (ongoing)
+Gabriele Nebe (Aachen)  
+Achill Schürmann (Rostock) 
+Tsuyoshi Miezaki (Tokyo)  
+Fei Xu (Beijing)
 
 ## Organizers
 Sihuang Hu  (Qingdao)  
