@@ -13,12 +13,12 @@ Gabriele Nebe (Aachen)
 Achill Schürmann (Rostock)  
 Tsuyoshi Miezaki (Tokyo)  
 Fei Xu (Beijing)  
-Weihsuan Yu (Taoyuan)
+Wei-Hsuan Yu (Taoyuan)
 
 ## Organizers
 Sihuang Hu  (Qingdao)  
 Gabriele Nebe (Aachen)   
-Weihsuan Yu (Taoyuan) 
+Wei-Hsuan Yu (Taoyuan) 
 
 ## Location
 The conference venue will be at Ocean University of China Academic Exchange Center Hotel.
