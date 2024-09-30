@@ -18,8 +18,8 @@ Gabriele Nebe (Aachen)
 Achill Schürmann (Rostock)  
 Tsuyoshi Miezaki (Tokyo)  
 Fei Xu (Beijing)  
-Wei-Hsuan Yu (Taoyuan)
-Shuai Zhai (Qingdao)  
+Wei-Hsuan Yu (Taoyuan)  
+Shuai Zhai (Qingdao)
 
 ## Organizers
 Sihuang Hu  (Qingdao)  
