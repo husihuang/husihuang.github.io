@@ -10,13 +10,16 @@ The expected arrival and departure dates will be 14th June 2025 and 18th June 20
 
 ## Invited Speakers (ongoing)
 Eiichi Bannai (Fukuoka)  
+Sihuang Hu (Qingdao)  
 Yong Hu (Shenzhen)  
 Markus Kirschmer (Bielefeld)  
+Jianing Li (Qingdao)  
 Gabriele Nebe (Aachen)   
 Achill Schürmann (Rostock)  
 Tsuyoshi Miezaki (Tokyo)  
 Fei Xu (Beijing)  
 Wei-Hsuan Yu (Taoyuan)
+Shuai Zhai (Qingdao)  
 
 ## Organizers
 Sihuang Hu  (Qingdao)  
