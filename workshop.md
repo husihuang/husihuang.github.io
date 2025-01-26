@@ -1,4 +1,4 @@
-### 子曰：有朋自遠方來，不亦樂乎？ —— 論語·學而
+![image](https://github.com/user-attachments/assets/012d5c7a-b167-40a6-b8c6-fcb10be9cc3e)### 子曰：有朋自遠方來，不亦樂乎？ —— 論語·學而
 ### (ancient Chinese) Is it not delightful to have friends coming from distant quarters? (from "The Analects of Confucius")
 ------
 # International Workshop on Lattices, Codes and Related Topics
@@ -9,12 +9,15 @@ Related areas are also welcome.
 The expected arrival and departure dates will be 14th June 2025 and 18th June 2025, respectively. 
 
 ## Invited Speakers (ongoing)
+Sven Ahrend（Rostock）
 Eiichi Bannai (Fukuoka)  
+Zilong He（Dongguan）
 Sihuang Hu (Qingdao)  
 Yong Hu (Shenzhen)  
 Markus Kirschmer (Bielefeld)  
 Jianing Li (Qingdao)  
-Gabriele Nebe (Aachen)   
+Gabriele Nebe (Aachen)
+Alexander Oertel（Rostock）
 Achill Schürmann (Rostock)  
 Tsuyoshi Miezaki (Tokyo)  
 Fei Xu (Beijing)  
