@@ -29,13 +29,15 @@ Sihuang Hu  (Qingdao)
 Gabriele Nebe (Aachen)   
 Wei-Hsuan Yu (Taoyuan) 
 
+## Visa
+Please check [Frequently Asked Questions on Visa-free Entry into China](https://bio.visaforchina.cn/CBR3_EN/tongzhigonggao/323932180101337088.html) and [240-hour Visa-Free Transit Policy](https://bio.visaforchina.cn/CBR3_EN/tongzhigonggao/329810879262625792.html) for detailed information. 
+
 ## Location
 The conference venue will be at Ocean University of China Academic Exchange Center Hotel.
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31791.360746812457!2d120.32414898437544!3d36.06618646323339!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35960ffb1eb7ea95%3A0x3d799a207aa568bd!2sOcean%20University%20of%20China%20Academic%20Exchange%20Center%20Hotel!5e0!3m2!1sen!2sus!4v1725635872504!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Travel info.
-### Visa
-Please check this [link](https://www.ieee-itw2024.org/Visa) for detailed information (from another conference). 
+
 ### Arriving by plane:
 Qingdao Jiaodong International Airport (TAO) is well connected to major cities in China, Japan and Korea.
 When searching for flights, one could consider to transfer in Beijing, Shanghai, Tokyo and Seoul.
