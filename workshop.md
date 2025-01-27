@@ -22,7 +22,7 @@ Achill Schürmann (Rostock)
 Sho Suda（Yokosuka）  
 Tsuyoshi Miezaki (Tokyo)  
 Fei Xu (Beijing)  
-Zili Xu（Shanghai）
+Zili Xu（Shanghai）  
 Wei-Hsuan Yu (Taoyuan)  
 Shuai Zhai (Qingdao)  
 Tao Zhang（Xi'an）  
