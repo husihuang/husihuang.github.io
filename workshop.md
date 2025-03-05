@@ -16,6 +16,7 @@ Sihuang Hu (Qingdao)
 Yong Hu (Shenzhen)  
 Markus Kirschmer (Bielefeld)  
 Jianing Li (Qingdao)  
+Akihiro Munemasa (Sendai)  
 Gabriele Nebe (Aachen)  
 Alexander Oertel（Rostock）  
 Achill Schürmann (Rostock)  
