@@ -9,24 +9,27 @@ Related areas are also welcome.
 The expected arrival and departure dates will be 14th June 2025 and 18th June 2025, respectively. 
 
 ## Invited Speakers (ongoing)
-Sven Ahrend（Rostock）  
 Eiichi Bannai (Fukuoka)    
-Zilong He（Dongguan）  
-Sihuang Hu (Qingdao)  
 Yong Hu (Shenzhen)  
 Markus Kirschmer (Bielefeld)  
-Jianing Li (Qingdao)  
-Akihiro Munemasa (Sendai)  
 Gabriele Nebe (Aachen)  
-Alexander Oertel（Rostock）  
 Achill Schürmann (Rostock)  
 Sho Suda（Yokosuka）  
 Tsuyoshi Miezaki (Tokyo)  
+Yaokun Wu (Shanghai)  
 Fei Xu (Beijing)  
 Zili Xu（Shanghai）  
 Wei-Hsuan Yu (Taoyuan)  
+
+## Participants
+Sven Ahrend（Rostock） 
+Gennian Ge (Xi'an)
+Zilong He（Dongguan）  
+Jianing Li (Qingdao)  
+Alexander Oertel（Rostock）  
 Shuai Zhai (Qingdao)  
 Tao Zhang（Xi'an）  
+Chuanming Zong (Tianjin)  
 
 ## Organizers
 Sihuang Hu  (Qingdao)  
