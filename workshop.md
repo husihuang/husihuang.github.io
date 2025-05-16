@@ -20,12 +20,14 @@ Yaokun Wu (Shanghai)
 Fei Xu (Beijing)  
 Zili Xu（Shanghai）  
 Wei-Hsuan Yu (Taoyuan)  
+Da Zhao (Shanghai)  
 
 ## Participants
 Sven Ahrend（Rostock）   
 Gennian Ge (Xi'an)  
 Zilong He（Dongguan）    
 Jianing Li (Qingdao)  
+Lianyan Lu (Hangzhou)  
 Alexander Oertel（Rostock）  
 Shuai Zhai (Qingdao)  
 Tao Zhang（Xi'an）  
