@@ -22,9 +22,9 @@ Zili Xu（Shanghai）
 Wei-Hsuan Yu (Taoyuan)  
 
 ## Participants
-Sven Ahrend（Rostock） 
-Gennian Ge (Xi'an)
-Zilong He（Dongguan）  
+Sven Ahrend（Rostock）   
+Gennian Ge (Xi'an)  
+Zilong He（Dongguan）    
 Jianing Li (Qingdao)  
 Alexander Oertel（Rostock）  
 Shuai Zhai (Qingdao)  
