@@ -9,41 +9,31 @@ Related areas are also welcome.
 The expected arrival and departure dates will be 14th June 2025 and 18th June 2025, respectively. 
 
 ## Invited Speakers (ongoing)
-Eiichi Bannai (Fukuoka)    
-Yong Hu (Shenzhen)  
-Markus Kirschmer (Bielefeld)  
-Gabriele Nebe (Aachen)  
-Achill Schürmann (Rostock)  
-Sho Suda（Yokosuka）  
-Tsuyoshi Miezaki (Tokyo)  
-Yaokun Wu (Shanghai)  
-Fei Xu (Beijing)  
-Zili Xu（Shanghai）  
-Wei-Hsuan Yu (Taoyuan)  
-Da Zhao (Shanghai)  
-
-## Participants
-Sven Ahrend（Rostock）   
-Gennian Ge (Xi'an)  
-Zilong He（Dongguan）    
-Jianing Li (Qingdao)  
-Lianyan Lu (Hangzhou)  
-Alexander Oertel（Rostock）  
-Shuai Zhai (Qingdao)  
-Tao Zhang（Xi'an）  
-Chuanming Zong (Tianjin)  
+Alexander (Sasha) Barg
+Jonathan Mosheiff
+Zeyu Guo
+Nicolas Resch
+Hedongliang Liu
+Kuan Cheng
+Chen Yuan
+Zitan Chen
+Xiangliang Kong
+WeiHsuan Yu
 
 ## Organizers
-Sihuang Hu  (Qingdao)  
-Gabriele Nebe (Aachen)   
-Wei-Hsuan Yu (Taoyuan) 
+Weijun Fang
+Sihuang Hu
+Guodong Li
+Chong Shangguan
+Yiwei Zhang
+
 
 ## Visa
 Please check [Frequently Asked Questions on Visa-free Entry into China](https://bio.visaforchina.cn/CBR3_EN/tongzhigonggao/323932180101337088.html) and [240-hour Visa-Free Transit Policy](https://bio.visaforchina.cn/CBR3_EN/tongzhigonggao/329810879262625792.html) for detailed information. 
 
 ## Location
-The conference venue will be at Ocean University of China Academic Exchange Center Hotel.
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31791.360746812457!2d120.32414898437544!3d36.06618646323339!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35960ffb1eb7ea95%3A0x3d799a207aa568bd!2sOcean%20University%20of%20China%20Academic%20Exchange%20Center%20Hotel!5e0!3m2!1sen!2sus!4v1725635872504!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+The conference venue will be at Shandong University, Qingdao Campus.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10804.745869502147!2d120.69322573281887!3d36.378453296876806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x359659b130d345d1%3A0x4c48723e07c2b36a!2z6Z2S5bKb6JOd6Imy5Lit5b-D!5e0!3m2!1szh-CN!2s!4v1774917536920!5m2!1szh-CN!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Travel info.
 
