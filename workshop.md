@@ -19,14 +19,14 @@ For participants attending ISIT in Guangzhou, we can coordinate travel from Qing
 
 ## Invited Speakers (ongoing)
 Alexander (Sasha) Barg  
-Jonathan Mosheiff  
-Zeyu Guo  
-Nicolas Resch  
-Hedongliang Liu  
-Kuan Cheng  
-Chen Yuan  
 Zitan Chen  
+Kuan Cheng  
+Zeyu Guo  
 Xiangliang Kong  
+Hedongliang Liu  
+Jonathan Mosheiff  
+Nicolas Resch  
+Chen Yuan  
 WeiHsuan Yu  
 
 ## Organizers
@@ -38,7 +38,7 @@ Yiwei Zhang
 
 
 ## Visa
-Please check [Frequently Asked Questions on Visa-free Entry into China](https://bio.visaforchina.cn/CBR3_EN/tongzhigonggao/323932180101337088.html) and [240-hour Visa-Free Transit Policy](https://bio.visaforchina.cn/CBR3_EN/tongzhigonggao/329810879262625792.html) for detailed information. 
+Please check [Visa policies](https://2026.ieee-isit.org/visa-policies) for detailed information. 
 
 ## Location
 The conference venue will be at Shandong University, Qingdao Campus.
