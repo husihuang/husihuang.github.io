@@ -9,23 +9,23 @@ Related areas are also welcome.
 The expected arrival and departure dates will be 14th June 2025 and 18th June 2025, respectively. 
 
 ## Invited Speakers (ongoing)
-Alexander (Sasha) Barg 
-Jonathan Mosheiff 
-Zeyu Guo 
-Nicolas Resch 
-Hedongliang Liu 
-Kuan Cheng 
-Chen Yuan 
-Zitan Chen 
-Xiangliang Kong 
-WeiHsuan Yu 
+Alexander (Sasha) Barg  
+Jonathan Mosheiff  
+Zeyu Guo  
+Nicolas Resch  
+Hedongliang Liu  
+Kuan Cheng  
+Chen Yuan  
+Zitan Chen  
+Xiangliang Kong  
+WeiHsuan Yu  
 
 ## Organizers
-Weijun Fang 
-Sihuang Hu 
-Guodong Li 
-Chong Shangguan 
-Yiwei Zhang 
+Weijun Fang  
+Sihuang Hu  
+Guodong Li  
+Chong Shangguan  
+Yiwei Zhang  
 
 
 ## Visa
