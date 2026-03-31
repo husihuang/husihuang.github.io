@@ -9,23 +9,23 @@ Related areas are also welcome.
 The expected arrival and departure dates will be 14th June 2025 and 18th June 2025, respectively. 
 
 ## Invited Speakers (ongoing)
-Alexander (Sasha) Barg
-Jonathan Mosheiff
-Zeyu Guo
-Nicolas Resch
-Hedongliang Liu
-Kuan Cheng
-Chen Yuan
-Zitan Chen
-Xiangliang Kong
-WeiHsuan Yu
+Alexander (Sasha) Barg 
+Jonathan Mosheiff 
+Zeyu Guo 
+Nicolas Resch 
+Hedongliang Liu 
+Kuan Cheng 
+Chen Yuan 
+Zitan Chen 
+Xiangliang Kong 
+WeiHsuan Yu 
 
 ## Organizers
-Weijun Fang
-Sihuang Hu
-Guodong Li
-Chong Shangguan
-Yiwei Zhang
+Weijun Fang 
+Sihuang Hu 
+Guodong Li 
+Chong Shangguan 
+Yiwei Zhang 
 
 
 ## Visa
@@ -33,7 +33,7 @@ Please check [Frequently Asked Questions on Visa-free Entry into China](https://
 
 ## Location
 The conference venue will be at Shandong University, Qingdao Campus.
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10804.745869502147!2d120.69322573281887!3d36.378453296876806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x359659b130d345d1%3A0x4c48723e07c2b36a!2z6Z2S5bKb6JOd6Imy5Lit5b-D!5e0!3m2!1szh-CN!2s!4v1774917536920!5m2!1szh-CN!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7641.203795911146!2d120.69464896922511!3d36.36730769079881!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x359659c025f6b467%3A0x7aebea7248fef880!2sShandong%20University%20Qingdao-Library!5e0!3m2!1sen!2s!4v1774917710401!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Travel info.
 
