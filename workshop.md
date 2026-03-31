@@ -1,12 +1,21 @@
 ### 子曰：有朋自遠方來，不亦樂乎？ —— 論語·學而
 ### (ancient Chinese) Is it not delightful to have friends coming from distant quarters? (from "The Analects of Confucius")
 ------
-# International Workshop on Lattices, Codes and Related Topics
-An International Workshop on Lattices, Codes and Related Topics will be held at June 14-18, 2025 in Qingdao. 
-The focus of this workshop will be on the various applications and interactions of the
-theory of lattices and codes, within mathematics and beyond.
-Related areas are also welcome.  
-The expected arrival and departure dates will be 14th June 2025 and 18th June 2025, respectively. 
+# Qingdao Workshop on Coding Theory and Related Topics
+
+The Qingdao Workshop on Coding Theory and Related Topics will take place from June 21–27, 2026, at Shandong University's Qingdao campus.
+The workshop aims to bring together leading researchers from the fields of coding theory, combinatorics, and theoretical computer science to share and 
+discuss the latest advancements, challenges, and future directions in coding theory and its related disciplines. Topics of interest include, but are not limited to:
+- Coding for distributed storage systems
+- Coding for DNA storage
+- List decoding and list recovery
+- Polar codes
+- Pseudorandomness
+- Quantum error-correcting codes
+
+Dates:
+June 21, Sunday (Arrival and Registration) - June 27, Saturday (Departure)
+For participants attending ISIT in Guangzhou, we can coordinate travel from Qingdao to Guangzhou (a 3.5-hour flight) following the workshop.
 
 ## Invited Speakers (ongoing)
 Alexander (Sasha) Barg  
