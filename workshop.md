@@ -41,7 +41,8 @@ Yiwei Zhang
 Please check [Visa policies](https://2026.ieee-isit.org/visa-policies) for detailed information. 
 
 ## Location
-The conference venue will be at Shandong University, Qingdao Campus. <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7641.203795911146!2d120.69464896922511!3d36.36730769079881!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x359659c025f6b467%3A0x7aebea7248fef880!2sShandong%20University%20Qingdao-Library!5e0!3m2!1sen!2s!4v1774917710401!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+The conference venue will be at Shandong University, Qingdao Campus. 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7641.203795911146!2d120.69464896922511!3d36.36730769079881!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x359659c025f6b467%3A0x7aebea7248fef880!2sShandong%20University%20Qingdao-Library!5e0!3m2!1sen!2s!4v1774917710401!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Travel info.
 
