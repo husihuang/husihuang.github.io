@@ -52,6 +52,5 @@ When searching for flights, one could consider to transfer in Beijing, Shanghai,
 The other option is to fly to Beijing and take the high-speed train to Qingdao. This option is less recommended for 1st time China visit, due to the work needed to transfer from airport to train station in Beijing.
 ### Arriving by train:
 There are multiple train stations in Qingdao.
-We recommend Qingdao Station (青岛站) which is closest to the conference hotel.
-One can also arrive at Qingdaobei Station (North Qingdao Station, 青岛北站).
+We recommend Qingdaobei Station (North Qingdao Station, 青岛北站). One can also arrive at Qingdao Station (青岛站).
 DO NOT buy tickects to Qingdaoxi Station (West Qingdao Station, 青岛西站) which is not well connected with the main city area.
