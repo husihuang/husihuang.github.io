@@ -15,7 +15,7 @@ discuss the latest advancements, challenges, and future directions in coding the
 
 Dates:
 June 21, Sunday (Arrival and Registration) - June 27, Saturday (Departure)  
-# For participants attending ISIT in Guangzhou, we can coordinate travel from Qingdao to Guangzhou (a 3.5-hour flight) following the workshop.
+### For participants attending ISIT in Guangzhou, we can coordinate travel from Qingdao to Guangzhou (a 3.5-hour flight) following the workshop.
 
 ## Invited Speakers (ongoing)
 Alexander (Sasha) Barg  
