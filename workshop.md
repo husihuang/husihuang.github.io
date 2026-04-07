@@ -26,6 +26,7 @@ Xiangliang Kong
 Hedongliang Liu  
 Jonathan Mosheiff  
 Nicolas Resch  
+Hsin-Po Wang
 Chen Yuan  
 WeiHsuan Yu  
 
