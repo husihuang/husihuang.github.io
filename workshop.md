@@ -26,9 +26,9 @@ Xiangliang Kong
 Hedongliang Liu  
 Jonathan Mosheiff  
 Nicolas Resch  
-Hsin-Po Wang
-Chen Yuan  
+Hsin-Po Wang  
 WeiHsuan Yu  
+Chen Yuan  
 
 ## Organizers
 Weijun Fang  
