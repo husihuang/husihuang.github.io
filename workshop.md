@@ -27,7 +27,7 @@ Hedongliang Liu
 Jonathan Mosheiff  
 Nicolas Resch  
 Hsin-Po Wang  
-WeiHsuan Yu  
+Wei-Hsuan Yu  
 Chen Yuan  
 
 ## Organizers
