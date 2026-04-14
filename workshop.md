@@ -21,6 +21,7 @@ June 21, Sunday (Arrival and Registration) - June 27, Saturday (Departure)
 Alexander Barg  
 Zitan Chen  
 Kuan Cheng  
+Tuvi Etzion  
 Zeyu Guo  
 Xiangliang Kong  
 Hedongliang Liu  
