@@ -19,7 +19,7 @@ June 21, Sunday (Arrival and Registration) - June 27, Saturday (Departure)
 
 ## Invited Speakers (ongoing)
 Alexander Barg  
-Xue Chen
+Xue Chen  
 Zitan Chen  
 Kuan Cheng  
 Tuvi Etzion  
