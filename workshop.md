@@ -27,6 +27,7 @@ Zeyu Guo
 Xiangliang Kong  
 Hedongliang Liu  
 Jonathan Mosheiff  
+Pavel Panteleev  
 Nicolas Resch  
 Hsin-Po Wang  
 Wei-Hsuan Yu  
