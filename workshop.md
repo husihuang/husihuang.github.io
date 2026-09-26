@@ -17,6 +17,8 @@ Dates:
 June 21, Sunday (Arrival and Registration) - June 27, Saturday (Departure)  
 ### For participants attending ISIT in Guangzhou, we recommend booking China Southern Airlines Flight CZ3520, and we will arrange vehicles to take everyone to the airport together at that time. The specific flight information is as follows: Flight No. CZ3520, Qingdao 12:50 - Guangzhou 15:55, June 27th.
 
+[📄 Program](Qingdao_workshop_2026_final.pdf)
+
 ## Invited Speakers (ongoing)
 Alexander Barg  
 Xue Chen  
