@@ -1,0 +1,22 @@
+[
+  {
+    "file": "sos-normal.wav",
+    "unitSeconds": 0.18,
+    "frequencyHz": 650,
+    "pattern": "...---...",
+    "repetitions": 3,
+    "withinSignalGapUnits": 1,
+    "betweenRepetitionsGapUnits": 7,
+    "durationSeconds": 16.04
+  },
+  {
+    "file": "sos-slow.wav",
+    "unitSeconds": 0.3,
+    "frequencyHz": 650,
+    "pattern": "...---...",
+    "repetitions": 3,
+    "withinSignalGapUnits": 1,
+    "betweenRepetitionsGapUnits": 7,
+    "durationSeconds": 26.0
+  }
+]

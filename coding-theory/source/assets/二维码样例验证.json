@@ -1,0 +1,190 @@
+{
+  "url": "https://www.sdu.edu.cn/",
+  "version": 3,
+  "error": "H",
+  "modules": 29,
+  "quietZone": 4,
+  "damage": "仅把所选方形内的数据模块置白；所有功能模块保持原样",
+  "decoder": "ZXing-C++ 3.1.1",
+  "cases": [
+    {
+      "file": "sdu-qr-complete.png",
+      "kind": "完整",
+      "size": 0,
+      "changedBlackModules": 0,
+      "checks": [
+        {
+          "pixels": 222,
+          "blur": 0,
+          "decoded": [
+            "https://www.sdu.edu.cn/"
+          ]
+        },
+        {
+          "pixels": 222,
+          "blur": 0.4,
+          "decoded": [
+            "https://www.sdu.edu.cn/"
+          ]
+        },
+        {
+          "pixels": 296,
+          "blur": 0,
+          "decoded": [
+            "https://www.sdu.edu.cn/"
+          ]
+        },
+        {
+          "pixels": 296,
+          "blur": 0.4,
+          "decoded": [
+            "https://www.sdu.edu.cn/"
+          ]
+        },
+        {
+          "pixels": 444,
+          "blur": 0,
+          "decoded": [
+            "https://www.sdu.edu.cn/"
+          ]
+        },
+        {
+          "pixels": 444,
+          "blur": 0.4,
+          "decoded": [
+            "https://www.sdu.edu.cn/"
+          ]
+        },
+        {
+          "pixels": 592,
+          "blur": 0,
+          "decoded": [
+            "https://www.sdu.edu.cn/"
+          ]
+        },
+        {
+          "pixels": 592,
+          "blur": 0.4,
+          "decoded": [
+            "https://www.sdu.edu.cn/"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "sdu-qr-light.png",
+      "kind": "局部残缺",
+      "size": 9,
+      "rectangleStart": 10,
+      "changedBlackModules": 38,
+      "checks": [
+        {
+          "pixels": 222,
+          "blur": 0,
+          "decoded": [
+            "https://www.sdu.edu.cn/"
+          ]
+        },
+        {
+          "pixels": 222,
+          "blur": 0.4,
+          "decoded": [
+            "https://www.sdu.edu.cn/"
+          ]
+        },
+        {
+          "pixels": 296,
+          "blur": 0,
+          "decoded": [
+            "https://www.sdu.edu.cn/"
+          ]
+        },
+        {
+          "pixels": 296,
+          "blur": 0.4,
+          "decoded": [
+            "https://www.sdu.edu.cn/"
+          ]
+        },
+        {
+          "pixels": 444,
+          "blur": 0,
+          "decoded": [
+            "https://www.sdu.edu.cn/"
+          ]
+        },
+        {
+          "pixels": 444,
+          "blur": 0.4,
+          "decoded": [
+            "https://www.sdu.edu.cn/"
+          ]
+        },
+        {
+          "pixels": 592,
+          "blur": 0,
+          "decoded": [
+            "https://www.sdu.edu.cn/"
+          ]
+        },
+        {
+          "pixels": 592,
+          "blur": 0.4,
+          "decoded": [
+            "https://www.sdu.edu.cn/"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "sdu-qr-heavy.png",
+      "kind": "大量残缺",
+      "size": 21,
+      "rectangleStart": 4,
+      "changedBlackModules": 172,
+      "checks": [
+        {
+          "pixels": 222,
+          "blur": 0,
+          "decoded": []
+        },
+        {
+          "pixels": 222,
+          "blur": 0.4,
+          "decoded": []
+        },
+        {
+          "pixels": 296,
+          "blur": 0,
+          "decoded": []
+        },
+        {
+          "pixels": 296,
+          "blur": 0.4,
+          "decoded": []
+        },
+        {
+          "pixels": 444,
+          "blur": 0,
+          "decoded": []
+        },
+        {
+          "pixels": 444,
+          "blur": 0.4,
+          "decoded": []
+        },
+        {
+          "pixels": 592,
+          "blur": 0,
+          "decoded": []
+        },
+        {
+          "pixels": 592,
+          "blur": 0.4,
+          "decoded": []
+        }
+      ]
+    }
+  ],
+  "wechat": "未进行真实手机微信测试；不同设备、投影与扫描算法结果可能不同"
+}

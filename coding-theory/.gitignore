@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+/教师备课讲义.txt
+/教学安排.txt
+/使用说明.txt
+/AI与编码延伸阅读.txt
